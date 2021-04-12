@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Arkanoid Game",
+"productVersion": "0.1",
+"dataUrl": "Arkanoid Game.data.unityweb",
+"wasmCodeUrl": "Arkanoid Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Arkanoid Game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
